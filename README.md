@@ -1,12 +1,13 @@
 ## Olá olá! Sou o Jonathan! Muito prazer! 👋😁
 
-- 💼 Atualmente estou trabalhando como summer de currículo na @betrybe, ajudando a melhorar ainda mais o currículo do curso!
-- 🌱 Estou aprendendo muito sobre desenvolvimento web full stack na Trybe!
+- 💼 Atualmente estou trabalhando como summer de currículo na [@betrybe](https://github.com/betrybe), ajudando a melhorar ainda mais o currículo do curso!
+- 🌱 Estou aprendendo muito sobre desenvolvimento web full stack na [Trybe](https://www.betrybe.com)!
 - 📝 Estudando Typescript e Backend!
 - 🔍 Sou curioso de saber sobre como as coisas funcionam!
 - 🙌 Gosto muito de ajudar as pessoas a encontrarem soluções para seus problemas!
 - 📫 Fique à vontade para entrar em contato comigo!
 
+-----
 <!-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
