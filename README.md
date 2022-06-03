@@ -21,3 +21,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
+
+-----
+<div style="display: flex; justify-items: center;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jonathan-f-silva&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jonathan-f-silva">
+  <img height="180em" alt="Shows the Jonathan's GH Stats" src="https://github-readme-stats.vercel.app/api?username=jonathan-f-silva">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-silva&layout=compact&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-silva&layout=compact">
+  <img height="180em" alt="Shows the Jonathan's GH Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-silva&layout=compact&langs_count=7">
+</picture>
+</div>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-f-silva/)
