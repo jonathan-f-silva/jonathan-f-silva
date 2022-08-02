@@ -1,8 +1,8 @@
 # Olá olá! Sou o Jonathan! Muito prazer! 👋😁
 
-- 💼 Atualmente estou trabalhando como summer de currículo na [@betrybe](https://github.com/betrybe), ajudando a melhorar ainda mais o currículo do curso!
-- 🌱 Estou aprendendo muito sobre desenvolvimento web full stack na [Trybe](https://www.betrybe.com)!
-- 📝 Estudando Ciências da Computação e Testes de Software!
+- 💼 Atualmente estou trabalhando como analista de currículo na [@betrybe](https://github.com/betrybe), ajudando a melhorar ainda mais o currículo do curso!
+- 🌱 Fiz o curso de desenvolvimento web full stack na [Trybe](https://www.betrybe.com)!
+- 📝 Estudando sobre Back-end e Testes de Software!
 - 🔍 Sou curioso de saber sobre como as coisas funcionam!
 - 🙌 Gosto muito de ajudar as pessoas a encontrarem soluções para seus problemas!
 - 📫 Fique à vontade para entrar em contato comigo!
