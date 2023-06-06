@@ -1,8 +1,8 @@
 # Olá olá! Sou o Jonathan! Muito prazer! 👋😁
 
-- 💼 Atualmente estou trabalhando como analista de currículo na [@betrybe](https://github.com/betrybe), ajudando a melhorar ainda mais o currículo do curso!
+- 💼 Trabalhei por 11 meses como analista de currículo na [@betrybe](https://github.com/betrybe), ajudando a melhorar ainda mais o currículo do curso!
 - 🌱 Fiz o curso de desenvolvimento web full stack na [Trybe](https://www.betrybe.com)!
-- 📝 Estudando sobre Back-end e Testes de Software!
+- 📝 Estudando sobre Testes de Software e DevOps!
 - 🔍 Sou curioso de saber sobre como as coisas funcionam!
 - 🙌 Gosto muito de ajudar as pessoas a encontrarem soluções para seus problemas!
 - 📫 Fique à vontade para entrar em contato comigo!
@@ -27,7 +27,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
-
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jonathan-f-silva&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jonathan-f-silva">
@@ -39,6 +39,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-silva&layout=compact">
   <img height="180em" alt="Shows the Jonathan's GH Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-silva&layout=compact&langs_count=7">
 </picture>
+-->
 
 ## Redes e Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-f-silva/)
