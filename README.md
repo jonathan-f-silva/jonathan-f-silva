@@ -1,8 +1,8 @@
 # Olá olá! Sou o Jonathan! Muito prazer! 👋😁
 
-- 💼 Trabalhei por 11 meses como analista de currículo na [@betrybe](https://github.com/betrybe), ajudando a melhorar ainda mais o currículo do curso!
+- 💼 Trabalhei por 1 ano e meio com o time de currículo na [@betrybe](https://github.com/betrybe), ajudando a melhorar ainda mais o currículo do curso!
 - 🌱 Fiz o curso de desenvolvimento web full stack na [Trybe](https://www.betrybe.com)!
-- 📝 Estudando sobre Testes de Software e DevOps!
+- 📝 Estudando sobre Testes de Software, DevOps e Java!
 - 🔍 Sou curioso de saber sobre como as coisas funcionam!
 - 🙌 Gosto muito de ajudar as pessoas a encontrarem soluções para seus problemas!
 - 📫 Fique à vontade para entrar em contato comigo!
